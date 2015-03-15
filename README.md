@@ -1,1 +1,2 @@
-# tfOreGen
+# Thermal Foundation Ore Gen
+This repo is for the creation and maintence of a opensource project to make the generation of thermal foundation's ore gen .json files easier for modpack and world designers. This project is in no way assoicated with COFH and is only intended to make life a little easier for those of us who want more control over the distrobution of ores in our worlds. PLEASE keep in mind, this software is not perfect and there can and will be bugs. Also, you will need NEI from ChickenBones installed to generate the ore list dumps that this program reads in.
